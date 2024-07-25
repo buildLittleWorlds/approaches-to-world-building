@@ -6,7 +6,17 @@ The thought-experiment world-building method has its origin in philosophy and a 
 
 1. The Chinese Room Thought Experiment
 
-<img src="chinese-room.jpeg" alt="Chinese Room Thought Experiment" width="500">
+<div style="overflow: auto;">
+  <img src="chinese-room.jpeg" alt="Chinese Room Thought Experiment" style="float: left; width: 50%; margin-right: 20px;">
+  <p>
+    Here you can add your description of the Chinese Room Thought Experiment. The text will wrap around the image on the right side. You can continue writing as much as you need, and the text will flow beside and then below the image once it exceeds the image height.
+  </p>
+  <p>
+    You can add multiple paragraphs if needed. Remember that this is still within a Markdown file, so you can use Markdown syntax for text formatting within these paragraphs, such as **bold** or *italic*.
+  </p>
+</div>
+
+2. The Famous Violinist Thought Experiment
 
 2. The Famous Violinist Thought Experiment
 3. The Ship of Theseus Thought Experiment
