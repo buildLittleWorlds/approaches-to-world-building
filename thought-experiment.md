@@ -6,7 +6,7 @@ The thought-experiment world-building method has its origin in philosophy and a 
 
 1. The Chinese Room Thought Experiment
 
-<img src="chinese-room.jpeg" alt="Chinese Room Thought Experiment" width="500">
+![Chinese Room Thought Experiment](chinese-room.jpeg)
 
 2. The Famous Violinist Thought Experiment
 3. The Ship of Theseus Thought Experiment
