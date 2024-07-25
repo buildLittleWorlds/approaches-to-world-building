@@ -4,6 +4,6 @@ The lists-and-templates method is the world-building method most commonly found 
 
 Here are some examples of this kind of world-building:
 
-- [A reddit post example](https://www.storyplanner.com/story/plan/world-building-detailed-plan)
+- [Story Planner example](https://www.storyplanner.com/story/plan/world-building-detailed-plan)
 - [A Youtuber laying out a world-building list structure](https://www.youtube.com/watch?v=aSkrkXlundM)
 - 
