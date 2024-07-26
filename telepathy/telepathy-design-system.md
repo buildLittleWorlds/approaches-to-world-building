@@ -1,12 +1,7 @@
 # Imagine a World with Telepathy Using the Design System Method
 
-graph TD
-    A[Telepathic Privacy Protection System]
-    A --> B[Mental Firewall]
-    A --> C[Thought Encryption]
-    A --> D[Privacy Zones]
-    A --> E[Intrusion Detection]
-    A --> F[Countermeasures]
+```mermaid
+graph TD A[Telepathic Privacy Protection System] A --> B[Mental Firewall] A --> C[Thought Encryption] A --> D[Privacy Zones] A --> E[Intrusion Detection] A --> F[Countermeasures]
 
     B --> B1[Personal Shield]
     B --> B2[Family Network]
