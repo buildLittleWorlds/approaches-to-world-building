@@ -9,4 +9,4 @@ Here are some examples of this kind of world-building:
 - 
 
 
-
+[Back Home](/) | [On to the Thought Experiment](thought-experiment.md)
