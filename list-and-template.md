@@ -7,3 +7,6 @@ Here are some examples of this kind of world-building:
 - [Story Planner example](https://www.storyplanner.com/story/plan/world-building-detailed-plan)
 - [A Youtuber laying out a world-building list structure](https://www.youtube.com/watch?v=aSkrkXlundM)
 - 
+
+
+[Back Home](/)
