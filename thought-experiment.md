@@ -26,4 +26,8 @@ The thought-experiment world-building method has its origin in philosophy and a 
 
 
 
-## Classic Storytelling through Thought Experiments
+## Storytelling through Thought Experiments
+
+1. "The Ones Who Walk Away from Omelas"
+2. "The Ones Who Stay and Fight"
+3. 
