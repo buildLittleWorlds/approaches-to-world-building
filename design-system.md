@@ -35,8 +35,8 @@ While both methods are valuable for world-building, the Design System approach i
 
 ## Example of a Telepathic World - List and Design System Approaches
 
-- Using a list and template method to start thinking about a world with telepathy
-- Using a design system to start thinking about a world with telepathy
+- [Using a list and template method to start thinking about a world with telepathy](telepathy/telepathy-list-method.md)
+- [Using a design system to start thinking about a world with telepathy](telepathy/telepathy-design-system.md)
 
 
 [Back Home](/) | [On to Narrative](narrative.md)
