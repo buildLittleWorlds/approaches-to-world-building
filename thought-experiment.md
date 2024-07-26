@@ -31,3 +31,6 @@ The thought-experiment world-building method has its origin in philosophy and a 
 1. "The Ones Who Walk Away from Omelas"
 2. "The Ones Who Stay and Fight"
 3. 
+
+
+[Back Home](/) | [On to the Design System](design-system.md)
